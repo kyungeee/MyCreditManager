@@ -1,5 +1,5 @@
 # MyCreditManager
-원티드 프리온보딩 iOS 챌린지 사전과제 레포지토리
+원티드 프리온보딩 iOS 챌린지 사전미션 레포지토리
 
 * [원티드 프리온보딩 iOS 챌린지 5월](https://www.wanted.co.kr/events/pre_challenge_ios_3?utm_source=google&utm_medium=sa&utm_campaign=kr_career_edu_web_sa_application&utm_term=%ED%94%84%EB%A6%AC%EC%98%A8%EB%B3%B4%EB%94%A9&gclid=CjwKCAjwuqiiBhBtEiwATgvixDgHaF-IusT-UinbxSXs3jot89Sr88ICREfy0CFhVxU-i86Bo6W93BoC64sQAvD_BwE)
 * [프리온보딩 iOS 챌린지 사전미션](https://yagomacademy.notion.site/iOS-ba2d0c0bb0b949c896cc28567706e969)
